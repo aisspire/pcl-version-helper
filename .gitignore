@@ -1,0 +1,12 @@
+.agents/
+.aws/
+.codex/
+PCL-Backups/
+.pcl-maintenance-*/
+.test-run-*/
+fixtures/
+*.exe
+*.zip
+*.tar
+*.tar.gz
+*.log
